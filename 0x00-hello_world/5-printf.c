@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - display the string (with proper grammar, 
+ * main - display the string (with proper grammar,
  * but the outcome is a piece of art,)
  * Return: 0 in case of success (no errors)
  */
