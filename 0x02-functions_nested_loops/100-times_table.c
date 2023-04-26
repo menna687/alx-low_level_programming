@@ -6,7 +6,7 @@
  */
 void print_times_table(int n)
 {
-	if (n > 0 && n <= 15)
+	if (n >= 0 && n <= 15)
 	{
 		int row, col, res;
 
@@ -25,7 +25,7 @@ void print_times_table(int n)
 					}
 					_putchar('0' + res);
 				}
-				else if (res > 9 && res <= 99 )
+				else if (res > 9 && res <= 99)
 				{
 					if (col != 0)
 						_putchar(' ');
@@ -38,7 +38,6 @@ void print_times_table(int n)
 					_putchar('0' + ((res / 10) % 10));
 					_putchar('0' + res % 10);
 				}
-
 				if (col != n)
 				{
 					_putchar(',');
