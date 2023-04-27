@@ -8,7 +8,6 @@
 int main(void)
 {
 	int num1 = 1, num2 = 2, tmp;
-	int i;
 	int sum = 0;
 
 	while (num2 <= 4000000)
