@@ -1,5 +1,5 @@
 # 0x00-hello_world - C programming
-Files description:
+## Files description:
 | File name | Description |
 | ------------- | ------------- |
 | 0-preprocessor | A script that runs a C file through the preprocessor and save the result into another file<br> - The C file name is saved in the variable `$CFILE`<br> - The output will be saved in a file named `c` |
