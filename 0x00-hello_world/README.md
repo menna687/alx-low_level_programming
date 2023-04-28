@@ -10,3 +10,4 @@
 | 5-printf.c | A C program that prints exactly with proper grammar, `but the outcome is a piece of art,`, followed by a new line<br> - Using the function `printf` |
 | 6-size.c | A C program that prints the size of various types on the computer it is compiled and run on |
 | 100-intel | A script that generates the assembly code (Intel syntax) of a C code and save it in an output file<br> - The C file name is saved in the variable `$CFILE`<br> - The output file will be named the same as the C file, but with the extension .s instead of .c
+| 101-quote.c | A C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, followed by a new line, to the standard error<br> - Without using `printf` or `puts`<br> - The program returns 1
