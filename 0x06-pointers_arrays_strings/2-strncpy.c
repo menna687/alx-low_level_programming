@@ -1,5 +1,5 @@
 /**
- * strncpy - copies at most n bytes of the string pointed to by src
+ * _strncpy - copies at most n bytes of the string pointed to by src
  * to the buffer pointed to by dest
  * @dest: pointer to buffer address to copy to
  * @src: pointer to string to be copied
