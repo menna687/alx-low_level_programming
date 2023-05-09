@@ -7,3 +7,10 @@
 * Get size of specific types using `sizeof()`   
 
 ## 0x01-variables_if_else_while
+### C programming basics
+* Keywords and identifiers
+* Arithmetic, relational and logical operators
+* if statements
+* while loops
+
+## 0x02-functions_nested loops
