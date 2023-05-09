@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - print digits from 0 to 9 followed by ", "
- * Return: 0 in case of success (no errors)
+ * main - prints all possible combinations of single-digit numbers followed by ", "
+ * Return: Always 0
  */
 int main(void)
 {

@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Print last digit of number
- * Return: 0 in case of success (no errors)
+ * main - Print the last digit of a number 'n' and its properties
+ * Return: Always 0
  */
 int main(void)
 {

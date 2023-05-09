@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - print alphabet lowercase letters in reversed order
  * Return: 0 in case of success (no errors)
